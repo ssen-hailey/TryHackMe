@@ -8,7 +8,7 @@
 - So instead of remembering 104.26.10.229, you can remember tryhackme.com instead.
 
 ### 2. Domain Hierarchy
-##TLD
+###TLD
 - A TLD is the most righthand part of a domain name. 
-- gTLD\n
+- gTLD
   Historically a gTLD was meant to tell the user the domain name's purpose
